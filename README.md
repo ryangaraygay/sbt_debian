@@ -1,9 +1,9 @@
 # sbt_debian
 simple example of using sbt for building debian package
 
-<h1>Usage</h1>
+#Usage
 ```
   sbt debian:packageBin
 ```
-<h1>Output</h1>
+#Output
   hello_1_0_all.deb will be created under /target
